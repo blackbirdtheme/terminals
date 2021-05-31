@@ -2,9 +2,10 @@
 
 # terminals
 
-🏴 blackbird for your favorite terminal!
+🏴 blackbird for your favorite terminal emulator!
 
 - [kitty](./kitty/)
+- [iTerm2](./iterm2/)
 
 ## 🌃 Other Implementations
 
