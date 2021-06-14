@@ -1,0 +1,37 @@
+colors:
+  name: blackbird
+  author: Matt Gleich
+  primary:
+    background: "#000000"
+    foreground: "#fdf7cd"
+  cursor:
+    text: "#000000"
+    cursor: "#fdf7cd"
+  normal:
+    black: "#343c50"
+    red: "#e92741"
+    green: "#3ec840"
+    yellow: "#e1dc3f"
+    blue: "#418fdd"
+    magenta: "#ff00cc"
+    cyan: "#00ecd8"
+    white: "#fdf7cd"
+  bright:
+    black: "#343c50"
+    red: "#e92741"
+    green: "#3ec840"
+    yellow: "#e1dc3f"
+    blue: "#418fdd"
+    magenta: "#ff00cc"
+    cyan: "#00ecd8"
+    white: "#fdf7cd"
+  dim:
+    bright:
+    black: "#343c50"
+    red: "#e92741"
+    green: "#3ec840"
+    yellow: "#e1dc3f"
+    blue: "#418fdd"
+    magenta: "#ff00cc"
+    cyan: "#00ecd8"
+    white: "#fdf7cd"

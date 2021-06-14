@@ -6,6 +6,7 @@
 
 - [kitty](./kitty/)
 - [iTerm2](./iterm2/)
+- [alacritty](./alacritty/)
 
 ## 🌃 Other Implementations
 
