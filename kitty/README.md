@@ -1,4 +1,4 @@
-![kitty with blackbird](../images/kitty.jpg)
+![kitty with blackbird](../images/kitty.png)
 
 # kitty
 
