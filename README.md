@@ -7,6 +7,7 @@
 - [kitty](./kitty/)
 - [iTerm2](./iterm2/)
 - [alacritty](./alacritty/)
+- [Windows Terminal](./window_terminal/)
 
 ## 🌃 Other Implementations
 
