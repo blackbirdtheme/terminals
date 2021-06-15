@@ -1,0 +1,23 @@
+{
+  "background": "#000000",
+  "black": "#343C50",
+  "blue": "#418EDD",
+  "brightBlack": "#343C50",
+  "brightBlue": "#418EDD",
+  "brightCyan": "#00ECD8",
+  "brightGreen": "#3EC841",
+  "brightPurple": "#FF00CC",
+  "brightRed": "#E92741",
+  "brightWhite": "#FDF7CD",
+  "brightYellow": "#E1DB3F",
+  "cursorColor": "#FFFFFF",
+  "cyan": "#00ECD8",
+  "foreground": "#FDF7CD",
+  "green": "#3EC841",
+  "name": "blackbird",
+  "purple": "#FF00CC",
+  "red": "#E92741",
+  "selectionBackground": "#454153",
+  "white": "#FDF7CD",
+  "yellow": "#E1DB3F"
+}
